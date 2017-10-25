@@ -1,0 +1,42 @@
+#loginForm{
+				margin-top: 100px;
+				height:200px;
+				width:300px;
+				margin-left: 400px;
+				padding:30px;
+				background-color: #EEE;
+}
+
+#registerForm{
+				margin-top: 100px;
+				height:400px;
+				width:400px;
+				margin-left: 400px;
+				padding:30px;
+				background-color: #D8E6E6;
+}
+#secured{
+				height:100px;
+				width:300px;
+				margin-left: 400px;
+				padding:10px;
+				background-color: #CCE6FF;
+}
+#loginBtn{
+		margin-left: 100px;
+}
+#loginName{
+		margin-left:22px;
+}
+#loginNameReg{
+		margin-left:40px;
+}
+#eMailReg{
+		margin-left:22px;
+}
+#passwordReg{
+		margin-left:55px;
+}
+#rePasswordReg{
+		margin-left:7px;
+}
